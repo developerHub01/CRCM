@@ -4,7 +4,7 @@ CRCM - Creative Result Card Maker
 
 # CRCM-Creative_Result_Card_Maker
 
-[Live preview](https://developerHub01.github.io/CRCM_Creative_Result_Card_Maker/ "Live Preview App"): https://developerHub01.github.io/CRCM_Creative_Result_Card_Maker/
+[Live preview](https://developerhub01.github.io/CRCM/ "Live Preview App"): https://developerhub01.github.io/CRCM/
 --------------------------------------------
 
 !["This is a image"](Preview_md_file/preview01.png "Random Image")
